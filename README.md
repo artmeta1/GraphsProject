@@ -9,7 +9,7 @@ The files are named: lab3, lab4, lab5. Since the files are written in the DOT pr
 
 # Open DOT files using DOT utilites
 
-Once you've created the files using the project debugging
+Once you've created the files using the project debugging in VS
 
 ![image](https://github.com/artmeta1/GraphsProject/assets/138626312/3453e443-37a2-4427-945e-fa54b62f1d94)
 
